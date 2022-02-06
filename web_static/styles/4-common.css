@@ -2,20 +2,19 @@
  * === Global style ===
  */
 
-/*global style*/
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
 /* Body style */
 body {
-	color: #484848;
-	font: 14px Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #484848;
+  font: 14px Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/*container style*/
+/* Container style */
 .container {
-	max-width: 1000px;
-	margin: 30px auto;
+  margin: 30px auto;
+  max-width: 1000px;
+}
+
+/* Strong style */
+strong {
+  font-weight: bold;
 }
